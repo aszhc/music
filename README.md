@@ -1,8 +1,8 @@
 # music
 
-<img  src="https://gitee.com/aszh/Gitee-Pages/raw/master/img/logo.png" align='left'/>
 
----
+
+![](https://gitee.com/aszh/Gitee-Pages/raw/master/img/logo.png)
 
  一个由Django框架构建的在线音乐网站
 
