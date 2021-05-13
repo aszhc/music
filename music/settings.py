@@ -71,7 +71,8 @@ DATABASES = {
         'NAME': 'music_db',
         'USER': 'root',
         'PASSWORD': 'Root_98zhou',
-        'HOST': '127.0.0.1',
+        # 'HOST': '188.131.163.7',
+        'HOST': '0.0.0.0',
         'PORT': '3306',
     }
 }
