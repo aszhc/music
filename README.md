@@ -85,4 +85,4 @@ sqlparse==0.4.1
 
 ## :full_moon: 展示
 
-![](https://gitee.com/aszh/Gitee-Pages/raw/master/img/2021-05-13_17-34.png)
+![展示](https://i.loli.net/2021/05/13/6QtamYSfberZW4x.png)
