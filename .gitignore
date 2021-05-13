@@ -1,2 +1,8 @@
 # Virtual environment
 venv
+
+# 工程文件夹
+.idea
+
+# __pycache__ 文件夹
+__pycache__
