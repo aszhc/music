@@ -2,6 +2,8 @@
 
 <img  src="https://gitee.com/aszh/Gitee-Pages/raw/master/img/logo.png" align='left'/>
 
+---
+
  一个由Django框架构建的在线音乐网站
 
 
@@ -65,7 +67,6 @@
       docker run -itd -p 3306:3306 django-mysql-server
       ```
       
-   
    3. 进入容器参照普通部署修改相关配置
    
       
