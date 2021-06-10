@@ -54,7 +54,7 @@
    1. 拉取镜像
 
       ```bash
-      docker pull aszhc/django-server
+      docker pull registry.cn-hangzhou.aliyuncs.com/aszh/django-server
       ```
       ```bash
       docker pull registry.cn-hangzhou.aliyuncs.com/aszh/django-mysql-server
